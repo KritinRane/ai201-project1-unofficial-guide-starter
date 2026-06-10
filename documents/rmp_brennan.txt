@@ -1,0 +1,27 @@
+Professor: Tegan Brennan
+Department: Computer Science
+School: Stevens Institute of Technology
+Overall Quality: 5/5
+Would Take Again: 100%
+Difficulty: 2.8/5
+Total Ratings: 6
+
+---
+Course: CS396 | Quality: 5/5 | Difficulty: 2/5 | Grade: A | Date: Jan 2025
+Professor Brennan is super kind and will always treat every question with respect. Her labs are zybooks hacking practices so if you enjoy ethical hacking you'll have fun. The whole semester is lecture content for the exam, so coding is basically an irrelevant skill in this class. Know the concepts and be able to explain them.
+
+---
+Course: CS284 | Quality: 5/5 | Difficulty: 3/5 | Grade: A | Date: Oct 2022
+She is lovely. Gives extra credit, amazing lectures, accessible outside class.
+
+---
+Course: CS284 | Quality: 5/5 | Difficulty: 3/5 | Grade: B+ | Date: Jun 2022
+Prof. Brennan knows what she is doing with CS284. The course was homework-based which allowed the class to apply topics learned in lectures well. She reaches out to anyone who is struggling and is very open to extra credit opportunities. You will learn a lot from her class.
+
+---
+Course: CS284 | Quality: 5/5 | Difficulty: 3/5 | Grade: A | Date: May 2022
+Professor Brennan is a natural teacher, which is rare at the college level. She explains topics clearly even for those new to Java. Assignments are challenging but doable, and she offered a large extra credit assignment to ensure grades wouldn't tank from one bad assignment. Very caring and great at teaching.
+
+---
+Course: CS284 | Quality: 5/5 | Difficulty: 3/5 | Grade: A | Date: May 2022
+One of the best professors for CS284. She always gives motivational facts about different data methods which makes topics easier to understand. Office hours are really helpful and welcoming. She takes student privacy seriously. She appreciates when students come prepared to class before lectures.
